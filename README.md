@@ -15,7 +15,3 @@
 
 ## Flow
 Login Page → LoginServlet → Admin/User Dashboard
-
-Add cookie based username storage
-Fix admin routing condition
-Create user dashboard JSP
